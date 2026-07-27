@@ -57,7 +57,4 @@ To ground the demo in reality rather than hypotheticals, Vondergeist is tested a
 
 ---
 
-## Project Status
-
-Built as a solo 24-hour hackathon project for **Hackathon Orchestrate**.
 
